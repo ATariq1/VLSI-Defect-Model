@@ -5,7 +5,7 @@ Problem Reference: https://samyzaf.com/ML/opens/opens.html
 
 This is a solution to the problem presented above.
 
-The machine learning model is TensorFlow Keras seqeuntial neural network.
+The machine learning model is a TensorFlow Keras seqeuntial neural network.
 
 It contains 4 layers and has ~80% accuracy in detecting defects
 
